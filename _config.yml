@@ -1,11 +1,11 @@
-# Site settings
-title: Tao Guo
+# Site setting
+title: Tao Guo  ### I made change HERE
 description: Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Tao Guo
+username: Tao Guo  ### I made CHANGE HERE
 user_description: Current MDS Student
 user_title: MDS Student
 email: taoguoubc@gmail.com
